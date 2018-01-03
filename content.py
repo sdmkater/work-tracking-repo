@@ -1,3 +1,3 @@
 print("mhmtd")
 print("vjjau")
-print("tnale")
+print("wwanl")
