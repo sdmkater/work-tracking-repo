@@ -8,5 +8,6 @@ int main() {
         cout << "bjgnu";
         cout << "twcgh";
         cout << "axweb";
+        cout << "niiei";
 return 0;
 }
