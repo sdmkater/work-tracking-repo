@@ -10,6 +10,5 @@ int main() {
         cout << "axweb";
         cout << "khpwo";
         cout << "qolqq";
-        cout << "sfajh";
 return 0;
 }
