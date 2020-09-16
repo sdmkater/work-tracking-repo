@@ -11,5 +11,6 @@ int main() {
         cout << "khpwo";
         cout << "itayb";
         cout << "arreg";
+        cout << "mmsyn";
 return 0;
 }
