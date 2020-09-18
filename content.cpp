@@ -12,5 +12,6 @@ int main() {
         cout << "itayb";
         cout << "arreg";
         cout << "wvrxe";
+        cout << "wegqy";
 return 0;
 }
