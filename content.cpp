@@ -16,6 +16,5 @@ int main() {
         cout << "jigmc";
         cout << "tmbcm";
         cout << "cvucn";
-        cout << "rbjyh";
 return 0;
 }
